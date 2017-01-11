@@ -1,0 +1,30 @@
+{
+  "name": "coworkies2016",
+  "version": "1.0.0",
+  "description": "Celebrating 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmtr/cw2016.git"
+  },
+  "keywords": [
+    "coworking",
+    "coworkies",
+    "2016",
+    "travel",
+    "blog"
+  ],
+  "author": "idmtr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmtr/cw2016/issues"
+  },
+  "homepage": "https://github.com/idmtr/cw2016#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
